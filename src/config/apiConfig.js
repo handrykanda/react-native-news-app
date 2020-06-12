@@ -1,4 +1,4 @@
-export const articlesBaseUrl = 'https://newsapi.org/v2/top-headlines'
+export const articlesBaseUrl = 'http://newsapi.org/v2/top-headlines'
 export const countryCode = 'gb'
 export const general_category = 'general'
 export const sports_category = 'sports'
