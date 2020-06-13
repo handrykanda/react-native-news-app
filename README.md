@@ -16,7 +16,7 @@ This project is a react native app that runs on both ios and android platforms. 
 
 ### **General functionality:**
 
-- Display with of news.
+- Display list of news.
 - Open any news article using a webview.
 - You can also share the news article with friends
 
